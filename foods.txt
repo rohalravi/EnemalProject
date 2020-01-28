@@ -1,1 +1,3 @@
 foods
+veg
+nonveg
