@@ -1,3 +1,4 @@
 foods
 veg
 nonveg
+veg and nonveg both
